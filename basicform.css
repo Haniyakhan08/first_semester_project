@@ -1,0 +1,31 @@
+.intro{
+    float:  left;
+    width: 100%;
+}
+body
+  {
+    float: right;
+    max-width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    color: rgb(29, 20, 20);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("formmmm.jpg");
+    background-size: cover;
+}
+
+  h1{
+    color: rgb(54, 4, 12);
+    font-size: 40px;
+    padding: 25px;
+    margin: 40px;
+  }
+  div{
+    margin: 0;
+  }
+.head{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: 20px;
+  }
